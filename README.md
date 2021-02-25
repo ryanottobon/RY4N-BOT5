@@ -1,7 +1,6 @@
 # Brizas-bot
-<h1 align="center">
-    <img src= "https://ik.imagekit.io/udrjr6qttz9/20210213_215936_RgMbcLGkE.png">
-</h1>
+    
+
 
 # Índice
 - [O que é?](#O-que-é-?)
